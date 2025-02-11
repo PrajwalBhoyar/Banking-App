@@ -1,0 +1,8 @@
+balance | id  | account_holder_name | account_type
+-------------------------------------------------
+12000   | 1   | Rohit               | Saving
+22900   | 2   | Ram                 | Current
+10000   | 3   | Sachin              | Current
+8000    | 4   | Rohan               | Saving
+30000   | 5   | Neha                | Saving
+15000   | 6   | Ayush               | Saving
